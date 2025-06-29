@@ -41,7 +41,7 @@ public class MathUtilTest {
             {1,1},
             {2,2},
             {5,120},
-            {6,720}
+            {6,520}
         };
     }
     @ParameterizedTest
