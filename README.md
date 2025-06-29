@@ -1,0 +1,1 @@
+[![CI with GitHub Actions using Maven and JUnit](https://github.com/Kirin1711/math-util-junit5/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/Kirin1711/math-util-junit5/actions/workflows/maven-ci.yml)
